@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    border: 0;
+}
+.container{
+    border: 2px solid black;
+    padding: 10px;
+  display: flex;
+    flex-wrap: wrap;
+   
+  
+    gap: 20px;
+   
+}
+.children{
+    border: 2px solid orange;
+}
