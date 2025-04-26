@@ -15,8 +15,7 @@
 .children{
     border: 2px solid orange;
 }
-@media (max-width 720px){
-    body{
-        background-color: black;
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
     }
-}
